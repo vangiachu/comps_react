@@ -1,10 +1,4 @@
 import className from 'classnames';
-
-// const finalClassName = className('px-1.5', {
-// 	'bg-blue-500': true,
-// 	'text-yellow-500': false,
-// });
-// console.log(finalClassName);
 function Button({
 	children,
 	primary,
